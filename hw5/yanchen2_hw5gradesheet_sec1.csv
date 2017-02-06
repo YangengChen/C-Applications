@@ -1,0 +1,29 @@
+TEST,POINTS,OUTOF,OUTPUT
+"Part 1, Query A",2,2,graded
+"Part 1, Query B",2,2,graded
+"Part 1, Query C",2,2,graded
+"Part 1, Query D",2,2,graded
+"Part 1, Query E",2,2,graded
+"Part 2, Query A",2,2,graded
+"Part 2, Query B",2,2,graded
+"Part 2, Query C",2,2,graded
+"Part 2, Query D",2,2,graded
+"Part 2, Query E",2,2,graded
+"Part 3, Query A",2,2,graded
+"Part 3, Query B",2,2,graded
+"Part 3, Query C",2,2,graded
+"Part 3, Query D",2,2,graded
+"Part 3, Query E",2,2,graded
+"Part 4, Query A",2,2,graded
+"Part 4, Query B",2,2,graded
+"Part 4, Query C",2,2,graded
+"Part 4, Query D",2,2,graded
+"Part 4, Query E",2,2,graded
+"Part 5, Query A",2,2,graded
+"Part 5, Query B",2,2,graded
+"Part 5, Query C",2,2,graded
+"Part 5, Query D",2,2,graded
+"Part 5, Query E",2,2,graded
+Created correct number of threads per file,2,2,Threads counted
+Created correct number of threads requested,2,2,Threads counted
+Total,54,54,

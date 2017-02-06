@@ -1,0 +1,12 @@
+Test Case,Points,Max Score
+Output Check,46,54
+Part 1: Hand Examined for Thread Creation and Deletion,3,3
+Part 2: Hand Examined for Thread Creation and Deletion,3,3
+Part 3: Hand Examined for Thread Creation and Deletion,3,3
+Part 3: Hand Examined for Locking Mechanisms,10,10
+Part 4: Hand Examined for Thread Creation and Deletion,3,3
+Part 4: Hand Examined for Locking Mechanisms,10,10
+Part 5: Hand Examined for Thread Creation and Deletion,3,3
+Part 5: Hand Examined for IO Multiplexing,10,10
+Comments,,
+Total,91,99
