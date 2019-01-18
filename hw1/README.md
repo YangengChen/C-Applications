@@ -1,3 +1,2 @@
-Yangeng Chen
-109874539
+MapReduce Application
 
