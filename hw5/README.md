@@ -1,8 +1,3 @@
-# Lord of the Threads
+# Lord of the Threads (Multi-threading) 
 
 ## Author: Yangeng Chen
-### ID: 109874539
-
-Using late day
-
-PART 5 REQUIRES A LARGE NUMBER OF FILE DESCRIPTOR LIMIT FOR IT TO WORK.
